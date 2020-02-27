@@ -1,0 +1,8 @@
+{
+  "name": "react_from_scratch",
+  "version": "1.0.0",
+  "description": "Set up React, webpack, and Babel from scratch",
+  "main": "index.js",
+  "author": "Will Cheng",
+  "license": "MIT"
+}
